@@ -1,7 +1,7 @@
 
 
-import myppkg
+import mypkg
 
 
 def test_42():
-    assert myppkg.ANSWER == 42
+    assert mypkg.ANSWER == 42
